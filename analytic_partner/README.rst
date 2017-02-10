@@ -41,6 +41,7 @@ Contributors
 ------------
 
 * Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
+* Luis M. Ontalba <luismaront@gmail.com>
 
 Maintainer
 ----------
